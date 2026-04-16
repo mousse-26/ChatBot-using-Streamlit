@@ -28,7 +28,7 @@ dotenv
 ⚙️ Setup Instructions
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+clone https://github.com/mousse-26/ChatBot-using-Streamlit.git
 cd your-repo-name
 
 2️⃣ Create a virtual environment (optional but recommended)
